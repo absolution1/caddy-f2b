@@ -3,7 +3,7 @@ module github.com/Javex/caddy-fail2ban
 go 1.21.0
 
 require (
-	github.com/caddyserver/caddy/v2 v2.7.6
+	github.com/caddyserver/caddy/v2 v2.9.1
 	github.com/fsnotify/fsnotify v1.7.0
 	go.uber.org/zap v1.25.0
 )
